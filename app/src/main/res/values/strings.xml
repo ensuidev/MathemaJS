@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MathemaJS</string>
+
+    <!-- STRINGS FOR LOGIN & REGISTER PAGE -->
+    <string name="loginTitle">Log in</string>
+    <string name="formUsername">username</string>
+    <string name="formEmail">email</string>
+    <string name="formPassword">password</string>
+    <string name="btnLogin">Log in</string>
+    <string name="questionRegister">Dont have an account?</string>
+    <string name="linkRegister">Sign up</string>
+    <string name="languageEsp">Español</string>
+    <string name="languageEng">Inglés</string>
+    <string name="linkHome">Home</string>
+    <string name="linkAccount">Account</string>
+    <string name="desc">Description</string>
+    <string name="remember">Remember me</string>
+    <string name="logout">Log out</string>
+
+    <!-- Modal -->
+    <string name="confirm_delete">Are you sure you want delete this account?</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+
+
+    <!-- Link Register -->
+    <string name="registerTitle">Sign up</string>
+    <string name="btnRegister">Sign Up</string>
+    <string name="questionLogin">Do you have an account?</string>
+    <string name="linkLogin">Log in</string>
+
+    <!-- Junior Videos -->
+    <string name="Jc1">JavaScript Introduction</string>
+    <string name="juniorLvl">Junior</string>
+    <string name="descTextC1">Welcome to the JavaScript App Learning! in this chapter, we gonna learn the basics things of the JavaScript Programming Language for you can familiarize with this amazing language.</string>
+    <string name="dateC1">12/01/2023</string>
+
+    <!-- Mid Level Videos -->
+    <string name="Mlc1">JavaScript Chapter 33 / Modules</string>
+    <string name="date">24/03/2023</string>
+    <string name="descText">Hello! in this chapter we gonna learn how to do modules in the Javascript language, and this in less than 30 minutes!, after this, you will can apply this new knowledge in your oun projects or in a team project.</string>
+    <string name="midLvl">Mid Level</string>
+
+    <!-- Senior Videos -->
+    <string name="Sc140">JavaScript Chapter 140 / WordPress REST API and Fetch 2/5</string>
+    <string name="dateC140">22/05/2023</string>
+    <string name="descTextC140">In this Chapter you will gonna learn how to do a interaction between the API "Fetch" of JavaScript and the "WordPress Rest API". In this video we did the template HTML that we used for show the posts information and defined the variables and functions of endpoints that we will consume.</string>
+    <string name="seniorLvl">Senior</string>
+
+    <!-- Settings -->
+    <string name="settingsTitle">Settings</string>
+    <string name="btnUpdate">Save Changes</string>
+    <string name="btnDelete">Delete Account</string>
+</resources>

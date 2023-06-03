@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MathemaJS" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/lime_soap_400</item>
+        <item name="colorPrimaryVariant">@color/ufo_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/bay_wharf</item>
+        <item name="colorSecondaryVariant">@color/gray</item>
+        <item name="colorOnSecondary">@color/prestige</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorOnSecondary</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="SCREEN">
+        <item name="android:background">?attr/colorOnSecondary</item>
+    </style>
+    <style name="TEXT">
+        <item name="android:color">?attr/colorOnPrimary</item>
+    </style>
+    <style name="DIVISION">
+        <item name="android:background">@drawable/bg_border_with_shadow_night</item>
+    </style>
+    <style name="FORM">
+        <item name="android:color">?attr/colorOnPrimary</item>
+        <item name="android:background">@drawable/form_light_theme_night</item>
+    </style>
+    <style name="LEVEL">
+        <item name="android:background">@drawable/level_night_theme</item>
+        <item name="android:textColor">@color/bay_wharf</item>
+    </style>
+    <style name="NAVBAR">
+        <item name="android:background">@drawable/navbar_night_theme</item>
+        <item name="android:textColor">@color/bay_wharf</item>
+    </style>
+</resources>

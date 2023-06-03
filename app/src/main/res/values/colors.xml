@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lime_soap">#B3ECC5</color>
+    <color name="lime_soap_400">#55C879</color>
+    <color name="ufo_green">#189E4F</color>
+    <color name="wide_watermelon">#ff6b81</color>
+    <color name="watermelon">#ff4757</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="peace">#D9DDE3</color>
+    <color name="bay_wharf">#747d8c</color>
+    <color name="gray_200">#545B69</color>
+    <color name="gray">#3D434E</color>
+    <color name="prestige">#2f3542</color>
+</resources>
